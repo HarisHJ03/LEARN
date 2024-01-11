@@ -1,0 +1,13 @@
+*** Using Compiler 'V5.06 update 7 (build 960)', folder: 'E:\ProgramFile\MDK\Code\ARM\ARMCC\Bin'
+Build target 'Target 1'
+Note: source file '..\User\CAN\bsp_can.c' - object file renamed from '..\Output\bsp_can.o' to '..\Output\bsp_can_1.o'.compiling bsp_can.c...
+..\User\PID\bsp_can.c(7): error:  #65: expected a ";"
+      uint8_t error_sum+=error;
+..\User\PID\bsp_can.c(5): warning:  #177-D: variable "error"  was declared but never referenced
+      uint8_t error = set - get;
+..\User\PID\bsp_can.c(7): warning:  #177-D: variable "error_sum"  was declared but never referenced
+      uint8_t error_sum+=error;
+..\User\PID\bsp_can.c: 2 warnings, 1 error
+"..\Output\Template.axf" - 1 Error(s), 2 Warning(s).
+Target not created.
+Build Time Elapsed:  00:00:01

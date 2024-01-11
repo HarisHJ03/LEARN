@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "stm32f10x_can.h": "c",
+        "stm32f10x_rcc.h": "c",
+        "stm32f10x.h": "c",
+        "bsp_can.h": "c",
+        "stm32f10x_gpio.h": "c",
+        "misc.h": "c",
+        "bsp_serial.h": "c"
+    }
+}
